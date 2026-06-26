@@ -1,4 +1,4 @@
-<a href="https://github.com/ansea-wav"><img src="https://statsofgithub.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true&rank_icon=percentile" alt="Satria's github statistics" /></a>
+<a href="https://github.com/ansea-wav"><img src="https://statsofgithub.vercel.app/api?username=ansea-wav&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true&rank_icon=percentile" alt="Satria's github statistics" /></a>
 
 <div align="center">
 <br/>
